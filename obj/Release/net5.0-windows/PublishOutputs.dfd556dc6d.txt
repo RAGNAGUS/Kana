@@ -1,0 +1,5 @@
+C:\Users\casno\Desktop\Publish\Kana.exe
+C:\Users\casno\Desktop\Publish\Kana.dll
+C:\Users\casno\Desktop\Publish\Kana.deps.json
+C:\Users\casno\Desktop\Publish\Kana.runtimeconfig.json
+C:\Users\casno\Desktop\Publish\Kana.pdb
