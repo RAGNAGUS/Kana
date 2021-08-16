@@ -1,4 +1,6 @@
 # Kana is a learning tool for memorizing the kana characters.
+Download Kana 1.0: https://github.com/RAGNAGUS/Kana/archive/refs/heads/1.0.zip
+---
 What's new?
 ---
 Kana 1.0 Release Notes (06/07/2021)
