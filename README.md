@@ -1,5 +1,5 @@
 # Kana is a learning tool for memorizing the kana characters.
-Download: https://bit.ly/3CTiha3
+Download Kana lastest version: https://bit.ly/3CTiha3
 ---
 What's new?
 ---
