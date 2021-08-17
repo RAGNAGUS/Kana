@@ -3,7 +3,7 @@
 ---
 What's new?
 ---
-Kana 1.1 Release Notes (06/07/2021)
+Kana 1.1 Release Notes (17/08/2021)
   * Add Hotkeys button
   * Keys W, I, Numpad8 for Random alphabet.
   * Keys S, K, Numpad5 for Show hidden alphabet.
